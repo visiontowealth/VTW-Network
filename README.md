@@ -46,7 +46,7 @@ To get started with developing on the VTW blockchain, follow these steps:
 
 Join our growing community of developers and blockchain enthusiasts. Get support and collaborate on projects:
 
-- **GitHub Issues**: [https://github.com/VTWBlockchain/issues](https://github.com/VTWBlockchain/issues) - for technical issues and development discussions.
+- **GitHub Issues**: [https://github.com/visiontowealth/VTW-Network/issues](https://github.com/visiontowealth/VTW-Network/issues) - for technical issues and development discussions.
 
 ## License
 
